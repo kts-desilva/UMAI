@@ -1,0 +1,15 @@
+pandas
+streamlit
+numpy
+scikit-learn
+xgboost
+lightgbm
+plotly
+tensorflow
+keras
+statsmodels
+matplotlib
+seaborn
+yellowbrick
+streamlit-yellowbrick
+matplotlib-venn
