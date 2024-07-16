@@ -1,6 +1,6 @@
 pandas
 streamlit
-numpy
+numpy==1.21.6
 scikit-learn
 xgboost
 lightgbm
